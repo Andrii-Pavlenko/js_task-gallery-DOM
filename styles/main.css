@@ -30,7 +30,6 @@ ul {
     display: flex;
     list-style-type: none; }
   .gallery__large-img {
-    width: 100%;
-    height: 500px; }
+    width: 100%; }
 
 /*# sourceMappingURL=main.css.map */
